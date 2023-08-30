@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://linkedin.com/in/sahil2802" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil2802" height="30" width="40" /></a>
-<a hre f="https://auth.geeksforgeeks.org/user/sahil_2802/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil2802" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools:
@@ -49,10 +48,13 @@ Here are some ideas to get you started:
 <br>
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil2802&show_icons=true&locale=en&layout=compact" alt="sahil2802" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil2802&show_icons=true&locale=en" alt="sahil2802" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2802&" alt="sahil2802" /></p>
+<p><img align="left" src="https://github-readme-stats-sahil2802.vercel.app/api/top-langs?username=sahil2802&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sahil2802" /></p>
 </div>
 
+<div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sahil2802.vercel.app/api?username=sahil2802&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sahil2802" /></p>
+</div>
+
+<div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2802&theme=dark&hide_border=true&" alt="sahil2802" /></p>
+<div>
