@@ -47,13 +47,6 @@ Here are some ideas to get you started:
   </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 <br>
 
-<div>
-<p><img align="left" src="https://github-readme-stats-sahil2802.vercel.app/api/top-langs?username=sahil2802&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="sahil2802" /></p>
-</div>
-
-<div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sahil2802.vercel.app/api?username=sahil2802&show_icons=true&theme=dark&hide_border=true&locale=en" alt="sahil2802" /></p>
-</div>
 
 <div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil2802&theme=dark&hide_border=true&" alt="sahil2802" /></p>
