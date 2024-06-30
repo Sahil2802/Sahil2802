@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍🎓 About Me:
 🌱 I’m currently pursuing Bachelor Of Technology in Computer Science Engineering from Sharda University.<br><br>💻 I’m currently learning DSA, Machine Learning<br><br>👨‍💻 All of my projects are available at https://github.com/Sahil2802/ML-projects<br><br>📫 How to reach me forsahil28@gmail.com
 
 
